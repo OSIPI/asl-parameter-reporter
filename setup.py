@@ -9,7 +9,7 @@ setup(
     'click==8.1.7',
     'Flask==3.0.3',
     'Flask-Cors==4.0.1',
-    'gunicorn==22.0.0',
+    'gunicorn==23.0.0',
     'itsdangerous==2.2.0',
     'Jinja2==3.1.4',
     'MarkupSafe==2.1.5',
@@ -27,5 +27,5 @@ setup(
     'Framework :: Flask',
     'Operating System :: OS Independent',
   ],
-  python_requires='>=3.6',  # Specify the Python versions you support
+  python_requires='>=3.7',  # Specify the Python versions you support
 )
